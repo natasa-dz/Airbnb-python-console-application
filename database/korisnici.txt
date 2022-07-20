@@ -1,0 +1,11 @@
+Marko|Markovic|admin|admin|0654473021|marko@email.com|admin
+Pera|Peric|pera|pera|066806143|pera@email.com|domacin
+Djordje|Djordjevic|djole|djole|021222111|djole@email.com|domacin
+Mika|Mikic|mika|mika|0634432321|mika@email.com|gost
+Lazar|Lazic|laza|laza|064807342|laza@email.com|gost
+Nikola|Nikolic|nikola|nikola|021333555|nidza@email.com|domacin
+danilo|danilovic|daca021|daca021|021112351|daca@gmail.com|gost
+savo|dojcinov|savo021|savo021|021223521|savo@gmail.com|gost
+natasa|dzudzar|natasa1|natasa1|0655053140|dzudzar.n@gmail.com|blokiran
+mikica|mikic|mikica|mikica|098231|mikica@gmail.com|blokiran
+natasa|dzudzar|natasa2|nata|0655053140|natasa@gmail.com|gost

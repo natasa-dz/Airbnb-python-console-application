@@ -1,0 +1,11 @@
+1|44.44|44.2|Sutjeska 3,Novi Sad,21000
+2|53.5|47.2|Pasiceva 22,Beograd,11000
+3|53.5|47.2|Karadjordjeva 22,Beograd,11000
+4|22.22|33.33|Majevica 15,Subotica,23000
+5|33.33|44.44|Petra Drapsina 22,Nis,14000
+6|44.02|20.94|Masarikova 22,Kragujevac,34000
+7|45.77|19.64|Apatinski put 12,Sombor,25000
+8|44.42|44.24|Kosovska 8,Novi Sad,21000
+9|45.61|20.04|Bagremova 3,Becej, 21220
+10|53.34|47.21|Brace Jerkovic 32,Beograd,11000
+11|45.25|43.21|Sumadijska 2,Novi Sad,21000

@@ -1,0 +1,9 @@
+1|parking
+2|kuhinja
+3|televizor
+4|pegla
+5|ves masina
+6|klima
+8|Sauna
+9|WiFi
+10|Sauna

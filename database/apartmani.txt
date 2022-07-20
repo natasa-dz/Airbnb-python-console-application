@@ -1,0 +1,11 @@
+1|ceo apartman|3|7|1|1|pera|2400.0|aktivan|1,3,4
+2|soba|1|1|2|2|pera|1300.0|aktivan|1,2,3,4,5
+3|ceo apartman|5|10|3|3|djole|4100.0|aktivan|1,3,4
+4|soba|1|2|4|4|nikola|1800.0|neaktivan|1,9
+5|ceo apartman|3|6|5|5|nikola|2800.0|neaktivan|3,9,2,4,5
+6|ceo apartman|2|4|6|6|pera|2300.0|aktivan|3,9,2,4,5
+7|ceo apartman|4|8|7|7|nikola|2600.0|neaktivan|3,9,2,4,5
+8|ceo apartman|4|5|8|8|djole|2900.0|aktivan|3,9,2,4,5
+9|soba|1|1|9|9|djole|1700.0|neaktivan|1,4
+10|ceo apartman|4|9|10|10|nikola|3900.0|aktivan|1,3,4,9,2,5
+11|ceo apartman|4|5|11|11|pera|2900.0|aktivan|1
